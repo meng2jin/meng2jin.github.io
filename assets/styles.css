@@ -1,0 +1,44 @@
+/*html {
+    height: 100%;
+}*/
+
+/*.grapefruit {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url(http://cdn.theawl.com/wp-content/uploads/2015/01/12263286945_7f98ab4445_k.jpg);
+}*/
+
+.grapefruit {
+  margin-top: 40px;
+  margin-left: -75px;
+}
+
+.content {
+  height: 50vh;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.title {
+  font-family: 'Lato', sans-serif;
+  color: #7f8c8d;
+  margin-top: 180px;
+  font-size: 70px;
+}
+
+.sub-title {
+  font-family: 'PT Serif', serif;
+  color: #95a5a6;
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.contact {
+  font-family: 'PT Serif', serif;
+  color: #95a5a6;
+  margin-top: 20px;
+  font-size: 25px;
+}
